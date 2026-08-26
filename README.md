@@ -12,7 +12,7 @@ Course Topics
 
 
 
-Skills
+# Skills
 
 * Git
 * R
