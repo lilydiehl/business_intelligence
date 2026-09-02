@@ -12,7 +12,11 @@ Course Topics
 
 
 
+<<<<<<< HEAD
 \# Skills
+=======
+# Skills
+>>>>>>> 07bfc8be31ace685828d8a834db89208816adf29
 
 * Git
 * R
